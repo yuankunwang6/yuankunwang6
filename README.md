@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on github testing
+- 🌱 I’m currently learning computer science
+- 📫 How to reach me: yuankunwang17@gmail.com
+
 
 <!--
 **yuankunwang6/yuankunwang6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
